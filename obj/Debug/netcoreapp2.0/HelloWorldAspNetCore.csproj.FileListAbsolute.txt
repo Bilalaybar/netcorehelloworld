@@ -1,0 +1,11 @@
+/Users/bilalaybar/Documents/POC/HelloWorldAspNetCore/bin/Debug/netcoreapp2.0/HelloWorldAspNetCore.deps.json
+/Users/bilalaybar/Documents/POC/HelloWorldAspNetCore/bin/Debug/netcoreapp2.0/HelloWorldAspNetCore.runtimeconfig.json
+/Users/bilalaybar/Documents/POC/HelloWorldAspNetCore/bin/Debug/netcoreapp2.0/HelloWorldAspNetCore.runtimeconfig.dev.json
+/Users/bilalaybar/Documents/POC/HelloWorldAspNetCore/bin/Debug/netcoreapp2.0/HelloWorldAspNetCore.dll
+/Users/bilalaybar/Documents/POC/HelloWorldAspNetCore/bin/Debug/netcoreapp2.0/HelloWorldAspNetCore.pdb
+/Users/bilalaybar/Documents/POC/HelloWorldAspNetCore/obj/Debug/netcoreapp2.0/HelloWorldAspNetCore.csprojAssemblyReference.cache
+/Users/bilalaybar/Documents/POC/HelloWorldAspNetCore/obj/Debug/netcoreapp2.0/HelloWorldAspNetCore.csproj.CoreCompileInputs.cache
+/Users/bilalaybar/Documents/POC/HelloWorldAspNetCore/obj/Debug/netcoreapp2.0/HelloWorldAspNetCore.AssemblyInfoInputs.cache
+/Users/bilalaybar/Documents/POC/HelloWorldAspNetCore/obj/Debug/netcoreapp2.0/HelloWorldAspNetCore.AssemblyInfo.cs
+/Users/bilalaybar/Documents/POC/HelloWorldAspNetCore/obj/Debug/netcoreapp2.0/HelloWorldAspNetCore.dll
+/Users/bilalaybar/Documents/POC/HelloWorldAspNetCore/obj/Debug/netcoreapp2.0/HelloWorldAspNetCore.pdb
